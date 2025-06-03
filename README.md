@@ -19,7 +19,7 @@ Publications:
 * “Optimized Test Pattern Reduction for Gate-Exhaustive Faults Using MTTG and Quine-McCluskey STC” – accepted but not published yet.
 * “An Efficient Serialized Hardware Implementation of the ASCON Algorithm” – currently under review. 
 
-## 🎓 Education
+## Education
 * M.Sc in Electronics and Communication Engineering – Cairo University (2024-2025)
 
   Cumulative Grade: Excellent with honors (3.85/4)
